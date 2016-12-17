@@ -1,6 +1,6 @@
 {
   "name": "alexaserver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sample Alexa Server Project",
   "main": "index.js",
   "dependencies": {
