@@ -1,6 +1,3 @@
 [submodule "apps/AlexaNBA"]
 	path = apps/AlexaNBA
 	url = https://github.com/mikka23/NBASkill.git
-[submodule "apps/AlexaNBA2"]
-	path = apps/AlexaNBA2
-	url = https://github.com/mikka23/AlexaNBA.git
